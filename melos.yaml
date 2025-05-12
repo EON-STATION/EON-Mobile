@@ -1,0 +1,5 @@
+name: eon
+
+packages:
+  - apps/**
+  - packages/**

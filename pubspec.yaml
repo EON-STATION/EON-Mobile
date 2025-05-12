@@ -1,0 +1,9 @@
+name: eon
+publish_to: none
+
+environment:
+  sdk: ^3.6.0
+dev_dependencies:
+  melos: ^6.3.2
+workspace:
+  - packages/matching_state

@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: matching_state
+dependency_overrides:
+  matching_state:
+    path: ../../packages/matching_state

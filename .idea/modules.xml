@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/eon_business/melos_eon_business.iml" filepath="$PROJECT_DIR$/apps/eon_business/melos_eon_business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/matching_state/melos_matching_state.iml" filepath="$PROJECT_DIR$/packages/matching_state/melos_matching_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_eon.iml" filepath="$PROJECT_DIR$/melos_eon.iml" />
+    </modules>
+  </component>
+</project>
